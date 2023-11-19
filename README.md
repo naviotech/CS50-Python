@@ -23,6 +23,6 @@ Siéntete libre de contribuir al proyecto. Estoy abierto a sugerencias, correcci
 
 ## Contacto
 
-Si tienes preguntas, comentarios o sugerencias, no dudes en ponerse en contacto conmigo. Puedes encontrarme a través de [mi dirección de correo electrónico] o [mi perfil de GitHub].
+Si tienes preguntas, comentarios o sugerencias, no dudes en ponerse en contacto conmigo. 
 
 ¡Gracias por explorar mi proyecto CS50 2023!
