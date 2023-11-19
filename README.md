@@ -7,7 +7,7 @@
 <img src="https://github.com/naviomaya/CS50-Python/blob/main/2.png">
 ## Estado del Proyecto
 
-Actualmente, el proyecto se encuentra en una fase de desarrollo activa y aún no está completamente terminado. Estoy compartiendo este repositorio en caso de que pueda ser útil para otros estudiantes o desarrolladores. Estoy abierto a recibir feedback y sugerencias para mejorar el código existente.
+Estoy compartiendo este repositorio en caso de que pueda ser útil para otros estudiantes o desarrolladores. Estoy abierto a recibir feedback y sugerencias para mejorar el código existente.
 
 ## Organización del Proyecto
 
